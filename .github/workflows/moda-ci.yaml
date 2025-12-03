@@ -1,5 +1,5 @@
 name: docs-internal Moda CI
-
+[![.github/workflows/moda-ci.yaml](https://github.com/gjr1130-crypto/docs/actions/workflows/moda-ci.yaml/badge.svg?branch=main&event=deployment)](https://github.com/gjr1130-crypto/docs/actions/workflows/moda-ci.yaml)
 # More info on CI actions setup can be found here:
 # https://github.com/github/ops/blob/master/docs/playbooks/build-systems/moving-moda-apps-from-bp-to-actions.md
 

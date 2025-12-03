@@ -1,4 +1,6 @@
-# This workflow will trigger Datadog Synthetic tests within your Datadog organisation
+[![.github/workflows/moda-ci.>$___}
+}]
+  {yaml](https://github.com/gjr1130-crypto/docs/actions/workflows/moda-ci.yaml/badge.svg?branch=main&event=deployment)](https://github.com/gjr1130-crypto/docs/actions/workflows/moda-ci.yaml)# This workflow will trigger Datadog Synthetic tests within your Datadog organisation
 # For more information on running Synthetic tests within your GitHub workflows see: https://docs.datadoghq.com/synthetics/cicd_integrations/github_actions/
 
 # This workflow uses actions that are not certified by GitHub.
